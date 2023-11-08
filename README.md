@@ -30,11 +30,21 @@ CREATE TABLE [dbo].[Tables] (
 ## Usage Instructions
 
 1. Start the application.
-2. Log in using the username "a" and password "a" and get verified by captcha.
+
+2. Log in using the username(login) "a" and password(hasło) "a" and get verified by captcha.
+<img src="https://i.imgur.com/LVjGXHw.png"/>
+
 3. After a successful login, you will be redirected to the application interface.
+   
 4. Go to "Dodaj ucznia" TabControl
+
+<img src="https://i.imgur.com/7zaQoCM.png"/>
+
 5. Add new students by entering their first name, last name, and class, then click the "Add Student" button.
+
 6. To perform student selection Back to last TabControl and choose a criterion (first name, last name, or class) and selection type (equal, starts with, contains), and enter the appropriate phrase.
+<img src="https://i.imgur.com/YgqicFG.png"/>
+
 7. Click the "Search" button to display the selection results.
 
 
